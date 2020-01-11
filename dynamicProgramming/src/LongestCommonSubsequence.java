@@ -3,7 +3,6 @@ import static javafx.scene.input.KeyCode.X;
 public class LongestCommonSubsequence {
 
   public static void main(String args[]) {
-    System.out.println(" Ashish");
     String X = "ABCBDAB";
     String Y = "BDCABA";
     String answer= LCSLength(X, Y);
